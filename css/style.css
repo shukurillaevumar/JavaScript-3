@@ -1,0 +1,31 @@
+#project-1 {
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 50px;
+}
+
+/* #btn {
+    background-color: chartreuse;
+    border: none;
+    border-radius: 50px;
+    padding: 20px;
+    color: black;
+    cursor: pointer;
+} */
+
+#result {
+    margin-top: 40px;
+}
+
+#carousel {
+    object-fit: cover;
+    margin-top: 50px;
+}
+
+#container-2 {
+    margin-top: 40px;
+    border: 10px solid black;
+    border-radius: 40px;
+    padding: 50px;
+}
